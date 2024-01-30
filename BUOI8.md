@@ -501,7 +501,7 @@ public class TreeMapExample {
 
 ## 4: Sử dụng một số hàm của cấu trúc dữ liệu như sort.
 
->*Tài liệu tham khảo*:  [SortedMap](https://viettuts.vn/java-collection/sorting-trong-collections)
+>*Tài liệu tham khảo*:  [thamkhao](https://viettuts.vn/java-collection/sorting-trong-collections)
 
 **Lớp Collections trong java** cung cấp các phương thức static để sắp xếp các phần tử của collection. Nếu các phần tử collection thuộc kiểu Set hoặc Map, chúng ta có thể sử dụng TreeSet hoặc TreeMap. Nhưng chúng ta không thể sắp xếp các phần tử của List. Collections cung cấp phương thức sort() để phân sắp xếp các phần tử của List.
 
